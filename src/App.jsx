@@ -44,7 +44,7 @@ function App() {
     <div className="grid grid-cols-12 gap-4 h-screen bg-black text-white">
       
       {/* Sidebar */}
-      <div className="hidden md:block md:col-span-2 border-r border-white bg-black">
+      <div className="hidden md:block md:col-span-2 bg-black">
         <Sidebar />
       </div>
 
